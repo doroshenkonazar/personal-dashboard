@@ -1,27 +1,24 @@
-# DashboardPersonal
+# PersonalDashboard - Created to help with studies and daily tasks
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+## Presentation
 
-## Development server
+![alt text](https://i.imgur.com/yf22opC.png)
+![alt text](https://i.imgur.com/MYHap3l.png)
+![alt text](https://i.imgur.com/13haLYI.png)
+![alt text](https://i.imgur.com/d9tKGMT.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Features
+- Weekly activity calendar
+- Pomodoro to track hours and minutes
+- Financial calculation to facilitate expense control
+- Ability to change the background
+- Freedom to position screens however you want
 
-## Code scaffolding
+## Technologies
+- Angular
+- Typescript
+- Scss
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Author
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [@doroshenkonazar](https://github.com/doroshenkonazar)
